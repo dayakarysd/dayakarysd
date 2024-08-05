@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm YUKTA S DAYAKAR</h1>
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=%23FFFFFF&size=40&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+YUKTA+S+DAYAKAR" alt="Typing SVG" />
+</h1>
+
+
+
 <h3 align="center">💡 Exploring the world of Machine Learning and AI.</h3>
 
 - 💼 Feel free to for collaborations or networking! [www.linkedin.com/in/yukta-s-dayakar-595492292](www.linkedin.com/in/yukta-s-dayakar-595492292)
