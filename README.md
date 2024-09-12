@@ -8,7 +8,7 @@
 
 <h3 align="center">💡 Exploring the world of Machine Learning and AI.</h3>
 
-- 💼 Feel free to for collaborations or networking! [www.linkedin.com/in/yukta-s-dayakar-595492292](www.linkedin.com/in/yukta-s-dayakar-595492292)
+- 💼 Feel free for collaborations or networking! [www.linkedin.com/in/yukta-s-dayakar-595492292](www.linkedin.com/in/yukta-s-dayakar-595492292)
 
 - 📫 How to reach me **dayakarysd@gmail.com**
 
